@@ -1,0 +1,6 @@
+C:\Users\ricar\OneDrive\Estudos\ProjetoDDD\ProjetoDDD.Domain\bin\Debug\ProjetoDDD.Domain.dll
+C:\Users\ricar\OneDrive\Estudos\ProjetoDDD\ProjetoDDD.Domain\bin\Debug\ProjetoDDD.Domain.pdb
+C:\Users\ricar\OneDrive\Estudos\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\ProjetoDDD.Domain.csprojAssemblyReference.cache
+C:\Users\ricar\OneDrive\Estudos\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\ProjetoDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ricar\OneDrive\Estudos\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\ProjetoDDD.Domain.dll
+C:\Users\ricar\OneDrive\Estudos\ProjetoDDD\ProjetoDDD.Domain\obj\Debug\ProjetoDDD.Domain.pdb
